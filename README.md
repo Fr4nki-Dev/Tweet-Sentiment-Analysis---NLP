@@ -23,7 +23,7 @@ The final approach combines:
 ├── requirements.txt
 ├── sentiment-dataset.tsv
 ├── tweet_sentiment_analysis.ipynb
-└── docs/
+└── report/
     └── project_report.md
 ```
 
